@@ -21,7 +21,6 @@ Windows 用户 (10/11)
 2. 双击运行 `.exe` 文件，打开独立窗口。
 3. 在弹出的界面中手动登录 QRZ 账号。
 4. 选择导出格式（CSV/JSON/ADIF）和保存路径，点击导出。
-*(建议在这里放一张 Windows 界面截图)*
 
 Linux 用户 / 开发者
 1. 下载并解压 `QRZLogExporter-source.zip`。
